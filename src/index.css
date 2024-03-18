@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 200px;
+}
+
+#chart{
+  cursor:crosshair;
+  text-align: left;
+  font-family: "Public Sans", sans-serif;
+  width: 680px;
+  font-size: small;
+  font-weight: 400;
+  color:rgb(33, 43, 54);
+  box-sizing: border-box;
+}
+
+#heading{
+  text-align: center;
+  font-size: larger;
+}
